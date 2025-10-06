@@ -13,7 +13,7 @@ Library: E:\GitHub Sync\SteamTransport-main\Temp\BurstOutput\Data\Plugins\x86_64
 --linker-options=PdbAltPath="SteamTransport_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=E:\GitHub Sync\SteamTransport-main\Temp\Burst
---key-folder=E:/UNTIY EDITOR/EDITOR/6000.2.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=E:/UNTIY EDITOR/EDITOR/6000.2.6f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=E:\GitHub Sync\SteamTransport-main\Library\Burst
 --output=E:\GitHub Sync\SteamTransport-main\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -34,7 +34,7 @@ Library: E:\GitHub Sync\SteamTransport-main\Temp\BurstOutput\Data\Plugins\x86_64
 --linker-options=PdbAltPath="SteamTransport_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=E:\GitHub Sync\SteamTransport-main\Temp\Burst
---key-folder=E:/UNTIY EDITOR/EDITOR/6000.2.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=E:/UNTIY EDITOR/EDITOR/6000.2.6f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=E:\GitHub Sync\SteamTransport-main\Library\Burst
 --output=E:\GitHub Sync\SteamTransport-main\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -53,7 +53,7 @@ Library: E:\GitHub Sync\SteamTransport-main\Temp\BurstOutput\Data\Plugins\x86_64
 --linker-options=PdbAltPath="SteamTransport_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=E:\GitHub Sync\SteamTransport-main\Temp\Burst
---key-folder=E:/UNTIY EDITOR/EDITOR/6000.2.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=E:/UNTIY EDITOR/EDITOR/6000.2.6f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=E:\GitHub Sync\SteamTransport-main\Library\Burst
 --output=E:\GitHub Sync\SteamTransport-main\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -164,7 +164,7 @@ Library: E:\GitHub Sync\SteamTransport-main\Temp\BurstOutput\Data\Plugins\x86_64
 --linker-options=PdbAltPath="SteamTransport_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=E:\GitHub Sync\SteamTransport-main\Temp\Burst
---key-folder=E:/UNTIY EDITOR/EDITOR/6000.2.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=E:/UNTIY EDITOR/EDITOR/6000.2.6f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=E:\GitHub Sync\SteamTransport-main\Library\Burst
 --output=E:\GitHub Sync\SteamTransport-main\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
